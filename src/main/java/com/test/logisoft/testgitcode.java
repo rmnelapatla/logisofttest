@@ -6,6 +6,8 @@ public class testgitcode {
     System.out.println(a+b);
   }
   
+  int age=20;
+  
   public static void main(String arg[]) {
     int a = 0;
   }
