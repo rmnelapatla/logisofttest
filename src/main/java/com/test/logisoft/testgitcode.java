@@ -6,7 +6,7 @@ public class testgitcode {
     System.out.println(a*b);
   }
   
-  int age=40;
+  int age=120;
   
   public static void main(String arg[]) {
     int a = 50;
